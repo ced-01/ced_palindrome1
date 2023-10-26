@@ -24,7 +24,7 @@ $ gem install ced_palindrome
 
 ## Usage
 
-`ded_palindrome` adds a `palindrome?` method to the `String` class, and can be used as follows:
+`ced_palindrome` adds a `palindrome?` method to the `String` class, and can be used as follows:
 
 ```
 $ irb
